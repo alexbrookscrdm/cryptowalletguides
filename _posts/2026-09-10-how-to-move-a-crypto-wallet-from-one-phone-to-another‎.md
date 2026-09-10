@@ -1,3 +1,9 @@
+---
+layout: post
+title: "How To Move A Crypto Wallet From One Phone To Another"
+date: 2026-09-10
+categories: crypto wallet
+---
 # **How to Move a Crypto Wallet From One Phone to Another**
 
 Changing your phone does not necessarily mean losing access to your cryptocurrency wallet. If you are moving from an old phone to a new one, the process can usually be completed by restoring your wallet using the correct recovery method.
